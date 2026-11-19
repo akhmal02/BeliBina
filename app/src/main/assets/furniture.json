@@ -1,0 +1,82 @@
+[
+  {
+    "id": "seed-kallax",
+    "prodName": "KALLAX Shelf Unit",
+    "prodDesc": "Versatile 4-compartment shelf unit, perfect for living room or home office storage.",
+    "prodPrice": 299,
+    "prodAssembleFee": 50,
+    "prodCat": "Storage",
+    "prodPicture": "https://picsum.photos/seed/kallax/400/300",
+    "prodStock": 10
+  },
+  {
+    "id": "seed-billy",
+    "prodName": "BILLY Bookcase",
+    "prodDesc": "Classic tall bookcase with adjustable shelves. Fits any room style.",
+    "prodPrice": 199,
+    "prodAssembleFee": 50,
+    "prodCat": "Storage",
+    "prodPicture": "https://picsum.photos/seed/billy/400/300",
+    "prodStock": 8
+  },
+  {
+    "id": "seed-lack",
+    "prodName": "LACK Coffee Table",
+    "prodDesc": "Simple and sleek coffee table with a lower shelf for extra storage.",
+    "prodPrice": 149,
+    "prodAssembleFee": 50,
+    "prodCat": "Tables",
+    "prodPicture": "https://picsum.photos/seed/lack/400/300",
+    "prodStock": 12
+  },
+  {
+    "id": "seed-linnmon",
+    "prodName": "LINNMON Desk",
+    "prodDesc": "Spacious work desk with clean lines. Ideal for home office setups.",
+    "prodPrice": 249,
+    "prodAssembleFee": 50,
+    "prodCat": "Tables",
+    "prodPicture": "https://picsum.photos/seed/linnmon/400/300",
+    "prodStock": 6
+  },
+  {
+    "id": "seed-poang",
+    "prodName": "POANG Armchair",
+    "prodDesc": "Ergonomic armchair with a cushioned seat. Great for reading or relaxing.",
+    "prodPrice": 399,
+    "prodAssembleFee": 50,
+    "prodCat": "Seating",
+    "prodPicture": "https://picsum.photos/seed/poang/400/300",
+    "prodStock": 5
+  },
+  {
+    "id": "seed-stefan",
+    "prodName": "STEFAN Chair",
+    "prodDesc": "Solid wood dining chair with a comfortable curved back. Set of 1.",
+    "prodPrice": 129,
+    "prodAssembleFee": 50,
+    "prodCat": "Seating",
+    "prodPicture": "https://picsum.photos/seed/stefan/400/300",
+    "prodStock": 20
+  },
+  {
+    "id": "seed-malm",
+    "prodName": "MALM Bed Frame",
+    "prodDesc": "Clean-lined bed frame with two hidden storage compartments under the bed.",
+    "prodPrice": 699,
+    "prodAssembleFee": 50,
+    "prodCat": "Bedroom",
+    "prodPicture": "https://picsum.photos/seed/malm/400/300",
+    "prodStock": 4
+  },
+  {
+    "id": "seed-hemnes",
+    "prodName": "HEMNES Dresser",
+    "prodDesc": "6-drawer dresser with solid wood construction. Timeless design for any bedroom.",
+    "prodPrice": 549,
+    "prodAssembleFee": 50,
+    "prodCat": "Bedroom",
+    "prodPicture": "https://picsum.photos/seed/hemnes/400/300",
+    "prodStock": 7
+  }
+]

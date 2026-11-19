@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/adminDashboardFragment"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/adminOrdersFragment"
+        android:icon="@drawable/ic_assignment"
+        android:title="Orders" />
+    <item
+        android:id="@+id/adminAssemblersFragment"
+        android:icon="@drawable/ic_engineering"
+        android:title="Assemblers" />
+    <item
+        android:id="@+id/manageProductFragment"
+        android:icon="@drawable/ic_inventory_2"
+        android:title="Products" />
+    <item
+        android:id="@+id/adminProfileFragment"
+        android:icon="@drawable/ic_person"
+        android:title="Profile" />
+</menu>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_admin"
+    app:startDestination="@id/adminDashboardFragment">
+
+    <fragment
+        android:id="@+id/adminDashboardFragment"
+        android:name="com.belobina.app.fragments.admin.AdminDashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_admin_dashboard" />
+
+    <fragment
+        android:id="@+id/adminOrdersFragment"
+        android:name="com.belobina.app.fragments.admin.AdminOrdersFragment"
+        android:label="Orders"
+        tools:layout="@layout/fragment_admin_orders" />
+
+    <fragment
+        android:id="@+id/adminAssemblersFragment"
+        android:name="com.belobina.app.fragments.admin.AdminAssemblersFragment"
+        android:label="Assemblers"
+        tools:layout="@layout/fragment_admin_assemblers" />
+
+    <fragment
+        android:id="@+id/manageProductFragment"
+        android:name="com.belobina.app.fragments.admin.ManageProductFragment"
+        android:label="Products"
+        tools:layout="@layout/fragment_manage_products" />
+
+    <fragment
+        android:id="@+id/adminProfileFragment"
+        android:name="com.belobina.app.fragments.admin.AdminProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_admin_profile">
+
+        <action
+            android:id="@+id/action_adminProfileFragment_to_manageAdminFragment"
+            app:destination="@id/manageAdminFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/manageAdminFragment"
+        android:name="com.belobina.app.fragments.admin.ManageAdminFragment"
+        android:label="Manage Admins"
+        tools:layout="@layout/fragment_manage_admins" />
+
+</navigation>

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ahmad bin Ali",
+    "email": "ahmad@belobina.com",
+    "phone": "012-3456789",
+    "serviceArea": "Kuala Lumpur",
+    "rating": 4.8,
+    "availabilityStatus": "available"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "email": "rajesh@belobina.com",
+    "phone": "011-9876543",
+    "serviceArea": "Petaling Jaya",
+    "rating": 4.5,
+    "availabilityStatus": "available"
+  },
+  {
+    "name": "Lim Wei Jie",
+    "email": "weijie@belobina.com",
+    "phone": "016-1122334",
+    "serviceArea": "Subang Jaya",
+    "rating": 4.7,
+    "availabilityStatus": "available"
+  }
+]

@@ -1,0 +1,22 @@
+# Built binaries & intermediate caches
+*.apk
+*.aab
+*.ap_
+*.flat
+build/
+app/build/
+.gradle/
+
+# Local configurations & secrets
+local.properties
+seed/serviceAccountKey.json
+*.local.properties
+
+# Android Studio / IntelliJ IDE
+*.iml
+.idea/
+.DS_Store
+Thumbs.db
+/captures
+.externalNativeBuild
+.cxx

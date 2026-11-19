@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687273476563",
+    "project_id": "belibina",
+    "storage_bucket": "belibina.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687273476563:android:024a6e51fd2ab8c5d32f26",
+        "android_client_info": {
+          "package_name": "com.belobina.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYelOeGdjk9921UQ3HGN1jS0FzkONkOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

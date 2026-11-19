@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sage_green">#0b4524</color>
+    <color name="dark_sage">#0b4524</color>
+    <color name="white">#FFFFFF</color>
+    <color name="surface_grey">#F5F5F5</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#757575</color>
+    <color name="status_pending">#FFC107</color>
+    <color name="status_assigned">#2196F3</color>
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_cancelled">#F44336</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="placeholder_bg">#E8EFE9</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Material 3 container tones derived from sage green brand -->
+    <color name="primary_container">#C8E6C9</color>
+    <color name="on_primary_container">#0b4524</color>
+    <color name="secondary_container">#DCEDC8</color>
+    <color name="on_secondary_container">#1B5E20</color>
+    <color name="tertiary_container">#FFF8E1</color>
+    <color name="on_tertiary_container">#E65100</color>
+    <color name="surface_container_high">#EDEEE8</color>
+</resources>
